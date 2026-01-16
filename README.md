@@ -63,7 +63,7 @@ I’m a AI/ML Engineer passionate about building intelligent, scalable systems u
 I’m always excited to connect with like-minded people interested in **machine learning, data-driven systems, and impactful engineering projects**.  
 Feel free to reach out if you’d like to collaborate or discuss ideas.
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/your-link-here  ](https://www.linkedin.com/in/harsha-venkateshwara/)
-- 📧 Email: harsha.venkateswara@gmail.com  
+- 💼 LinkedIn: [harsha-venkateshwara](https://www.linkedin.com/in/harsha-venkateshwara/)
+- 📧 Email: harsha.venkateswara@gmail.com
 
 Let’s connect and build something impactful together..
