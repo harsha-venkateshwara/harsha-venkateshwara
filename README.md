@@ -1,4 +1,5 @@
-# Hi, I'm Harsha 👋  
+<h1 align="center">Hi, I'm Harsha 👋</h1>
+
 
 🚀 ** My Interests:** AI & Machine Learning | Data Science | Software Development | Problem Solving  
 
