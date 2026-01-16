@@ -49,15 +49,6 @@ I’m a AI/ML Engineer passionate about building intelligent, scalable systems u
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsha-venkateshwara&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-venkateshwara&layout=donut" height="160"/>
-</p>
-
----
-
 ## 📫 Get in Touch  
 
 I’m always excited to connect with like-minded people interested in **machine learning, data-driven systems, and impactful engineering projects**.  
