@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Harsha 👋</h1>
 
 
-🚀 ** My Interests:** AI & Machine Learning | Data Science | Software Development | Problem Solving  
+<p align="center">
+  🚀 <b>Interests:</b> AI & Machine Learning | Data Science | Software Development | Problem Solving
+</p>
+
 
 I’m a AI/ML Engineer passionate about building intelligent, scalable systems using data and machine learning. I enjoy personally enjoy writing clean and efficient code, exploring new technologies, and solving real-world problems through analytical thinking and model-driven solutions.
 
