@@ -110,7 +110,7 @@ class HarshaVenkateshwara:
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AEGIS — AI Support Automation
+### 🤖 AEGIS - AI Support Automation
 Agentic support platform with a **5-layer intent router** (regex → FAISS RAG → Groq Llama 3.3 70B), streaming chatbot, Gmail IMAP/SMTP automation, SQLite CRM & Plotly analytics. **90%+ rule-based resolution** across 12 intents with auto-escalation & P1–P4 SLA tracking.
 
 `LLM` `RAG` `FAISS` `FastAPI` `Agents`
@@ -120,7 +120,7 @@ Agentic support platform with a **5-layer intent router** (regex → FAISS RAG �
 </td>
 <td width="50%" valign="top">
 
-### 📊 TVLift — Convergent TV Attribution Engine
+### 📊 TVLift - Convergent TV Attribution Engine
 Production-grade **Media Mix Model** using geo-lift causal inference, Bayesian MMM (PyMC) and Hill-adstock saturation. Deployed **XGBoost + SHAP** attribution with a multi-channel budget optimizer across TV, social & search spend.
 
 `Causal Inference` `PyMC` `XGBoost` `SHAP`
@@ -142,7 +142,7 @@ End-to-end ML pipeline for telemetry normalization, feature engineering & label 
 </td>
 <td width="50%" valign="top">
 
-### 🛰️ LithoStream Sentinel — Real-Time Monitoring
+### 🛰️ LithoStream Sentinel - Real-Time Monitoring
 Real-time telemetry pipeline ingesting machine signals via **FastAPI → InfluxDB**, monitored with **Prometheus** and visualized in live **Grafana** dashboards. Containerized end-to-end with Docker Compose.
 
 `FastAPI` `InfluxDB` `Prometheus` `Grafana` `Docker`
@@ -187,7 +187,7 @@ Real-time telemetry pipeline ingesting machine signals via **FastAPI → InfluxD
 
 ## 🤝 Let's Build Something Impactful
 
-I'm always open to conversations about **machine learning, agentic AI, and production-grade engineering** — collaborations, research, or roles.
+I'm always open to conversations about **machine learning, agentic AI, and production-grade engineering** - collaborations, research, or roles.
 
 <a href="https://www.linkedin.com/in/harsha-venkateshwara/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:harsha.venkateswara@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
