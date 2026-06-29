@@ -177,7 +177,7 @@ Real-time telemetry pipeline ingesting machine signals via **FastAPI → InfluxD
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-venkateshwara&hide_border=true&background=0d1117&stroke=2C9CE6&ring=2C9CE6&fire=EA4335&currStreakLabel=2C9CE6" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-venkateshwara&hide_border=true&background=0d1117&stroke=2C9CE6&ring=2C9CE6&fire=EA4335&currStreakLabel=2C9CE6&sideNums=ffffff&sideLabels=9f9f9f&dates=9f9f9f&currStreakNum=ffffff" alt="GitHub Streak"/>
 
 </div>
 
