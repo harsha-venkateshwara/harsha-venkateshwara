@@ -27,7 +27,7 @@ class HarshaVenkateshwara:
         self.education   = "M.S. Computer Science @ University at Buffalo (SUNY)"
         self.focus       = ["Agentic AI / RAG", "Production ML at Scale", "GPU & Distributed Systems"]
         self.now         = "AI Engineer Intern @ Commvault"
-        self.proof       = ["$10K Hackathon Winner", "4.92/5.0 CSAT — 2 yrs", "2× SPOT Awards"]
+        self.proof       = ["10K cash prize Hackathon Winner", "4.92/5.0 CSAT — 2 yrs", "2× SPOT Awards"]
 
     def mission(self):
         return "Bring production rigor to AI systems — measurable impact, not demos."
